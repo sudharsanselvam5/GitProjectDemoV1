@@ -18,7 +18,7 @@ System.out.println("Employee Name is : Ram");
 
 	}
     private void empAddress() {
-	System.out.println("Address is chennai");
+	System.out.println("Address is OMR");
 
 	}
     public static void main(String[] args) {
